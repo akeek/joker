@@ -40,6 +40,9 @@
     ],
     "*.scss": [
       "prettier --write"
+    ],
+    "*.css": [
+      "prettier --write"
     ]
   }
 }
